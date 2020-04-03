@@ -9,5 +9,19 @@
         "name": "Elfaro"
     },
     "items": [
+        {
+            "id": "https://ibizatechold.github.io/blog/primo-articolo.html",
+            "url": "https://ibizatechold.github.io/blog/primo-articolo.html",
+            "title": "Primo Articolo",
+            "summary": "Prova per il primo articolo cielomarealberi",
+            "content_html": "<p>Prova per il primo articolo</p>\n<p><img class=\"post__image\" src=\"https://ibizatechold.github.io/blog/media/posts/1/GENOVA.jpg\" alt=\"prova\" width=\"1080\" height=\"592\"></p>\n<ol>\n<li>cielo</li>\n<li>mare</li>\n<li>alberi</li>\n</ol>",
+            "author": {
+                "name": "Elfaro"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-03T03:37:10+02:00",
+            "date_modified": "2020-04-03T03:38:00+02:00"
+        }
     ]
 }
