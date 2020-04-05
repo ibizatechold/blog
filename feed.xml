@@ -3,7 +3,7 @@
     <title>IbizaTecHold</title>
     <link href="https://ibizatechold.github.io/blog/feed.xml" rel="self" />
     <link href="https://ibizatechold.github.io/blog" />
-    <updated>2020-04-03T03:42:11+02:00</updated>
+    <updated>2020-04-05T03:17:54+02:00</updated>
     <author>
         <name>Elfaro</name>
     </author>
@@ -17,14 +17,16 @@
         <link href="https://ibizatechold.github.io/blog/primo-articolo.html"/>
         <id>https://ibizatechold.github.io/blog/primo-articolo.html</id>
 
-        <updated>2020-04-03T03:38:00+02:00</updated>
+        <updated>2020-04-05T03:17:44+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://ibizatechold.github.io/blog/media/posts/1/presence.png" alt="prova" />
                     Prova per il primo articolo cielomarealberi
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://ibizatechold.github.io/blog/media/posts/1/presence.png" alt="prova" />
                 <p>Prova per il primo articolo</p>
 <p><img class="post__image" src="https://ibizatechold.github.io/blog/media/posts/1/GENOVA.jpg" alt="prova" width="1080" height="592"></p>
 <ol>
